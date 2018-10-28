@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<frames>
+	<frame>
+		<bowl>1</bowl>
+		<bowl>9</bowl>
+	</frame>
+	<frame>
+		<bowl>10</bowl>
+	</frame>
+	<frame>
+		<bowl>9</bowl>
+		<bowl>0</bowl>
+	</frame>
+	<frame>
+		<bowl>2</bowl>
+		<bowl>4</bowl>
+	</frame>
+	<frame>
+		<bowl>3</bowl>
+		<bowl>0</bowl>
+	</frame>
+	<frame>
+		<bowl>6</bowl>
+		<bowl>1</bowl>
+	</frame>
+	<frame>
+		<bowl>5</bowl>
+		<bowl>5</bowl>
+	</frame>
+	<frame>
+		<bowl>4</bowl>
+		<bowl>4</bowl>
+	</frame>
+	<frame>
+		<bowl>10</bowl>
+	</frame>
+	<frame>
+		<bowl>1</bowl>
+		<bowl>10</bowl>
+		<bowl>10</bowl>
+	</frame>
+</frames>
