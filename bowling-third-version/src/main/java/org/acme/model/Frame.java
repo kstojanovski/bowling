@@ -1,6 +1,6 @@
 package org.acme.model;
 
-import org.acme.manualtest.ResultCalculator;
+import org.acme.calculation.ResultCalculator;
 
 import java.util.List;
 

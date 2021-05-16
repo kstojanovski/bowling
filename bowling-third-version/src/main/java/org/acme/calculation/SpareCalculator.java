@@ -1,4 +1,4 @@
-package org.acme.manualtest;
+package org.acme.calculation;
 
 import org.acme.model.Frame;
 import org.acme.model.FrameType;
