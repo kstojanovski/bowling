@@ -17,3 +17,16 @@ Also some design patterns are used like:
 
 This project has not profiles as the previous one but many unit test which were realized with the testing frameworks **Junit** and **Mockito**.
 Unit test coverage is over 90%.
+
+## Project: bowling-third-version
+
+This version was made with many classes which are separated into packages like:
+* model
+* calculation
+* process
+
+The process is decribed trough the many classes and the calculation are also done separately trough the classes.
+
+Unit test and manual test is also defined.
+
+This version is easier to understand because the natural flow of the process is build up int the splitted classes. Part of the calculation are done on setting the score value and the special cases like the spare and strike have extra calcualtion classes.
